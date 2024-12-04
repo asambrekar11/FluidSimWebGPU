@@ -1,4 +1,4 @@
-# Prerequisites
+ng # Prerequisites
 *.d
 
 # Compiled Object files
@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+node_modules
